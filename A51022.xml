@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Fitz-Harris (now prisoner in the Tower) his case truly stated; humbly offered to the free-holders of England, why he ought to be tried by a jury of his neighbours, and not by the House of Peers; in a letter to Mr. C.L.C F.S. and B.H. greeting.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51022</idno>
+            <idno type="STC">Wing M2265</idno>
+            <idno type="STC">ESTC R214197</idno>
+            <idno type="EEBO-CITATION">99826403</idno>
+            <idno type="PROQUEST">99826403</idno>
+            <idno type="VID">30806</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30806)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1764:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Fitz-Harris (now prisoner in the Tower) his case truly stated; humbly offered to the free-holders of England, why he ought to be tried by a jury of his neighbours, and not by the House of Peers; in a letter to Mr. C.L.C F.S. and B.H. greeting.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Smith in Great Queen-street,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Printer and publication date from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fitzharris, Edward, 1648?-1681 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  House of Peers --  Early works to 1800.</term>
+               <term>Trials --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:30806:1" rendition="simple:additions"/>
+            <head>Mr. FITZ-HARRIS (Now Priſoner in the Tower) His CASE truly ſtated; Humbly offered to the Free-holders of <hi>England,</hi> why he ought to be tried by a Jury of his Neigh<g ref="char:EOLhyphen"/>bours, and not by the Houſe of Peers; In a Letter to Mr. <hi>C. L.C. F.S.</hi> and <hi>B.H.</hi>
+            </head>
+            <opener>
+               <salute>Greeting.</salute>
+            </opener>
+            <p>VVHat a noiſe is this you <hi>Polititians</hi> make ſipping and ſmoaking at Coffce-Houſes? Cannot our Capitol be otherwiſe ſaved, but by ſuch Geeſe as you? Forſooth, now you have got ſomewhat by the end; Now you want not for ſomething to fling in the teeth of Government; now you are pleaſed, What! <hi>the Houſe of Lords you ſay, has rejected the Impeachment againſt</hi> Fitz Harris; <hi>This is your Monſtr' horrend' inform' ingens, &amp;c!</hi> Realy, it's pretty ſuch fine Fellows as you ſhould thus judge and cenſure what you no more underſtand, than a Cuckoe making a Cabinet. But a Fools Bolt is ſoon ſhot; whither will Deſign, Envy, Malice and Impudence run! you think (I warrant you) the Houſe of Lords is like a Club at a Tavern or ſuch Vermine as you at a Coffee houſe. But why ſo faſt? Conſider on it. By the Com<g ref="char:EOLhyphen"/>mon Law, by <hi>Magna Charta.</hi> and by 37 other ſeveral <hi>Acts of Parliament</hi> confirm<g ref="char:EOLhyphen"/>ing, &amp;<hi>c</hi> no man is to be tried but by his Peers. All Dukes, Marqueſſes, Earls, Viſcounts and Barons of the Lords Houſe of Parliam. in reſpect of their Nobility, be Peers amongſt themſelves. And they, and any of their Dutcheſſes &amp;c. be al<g ref="char:EOLhyphen"/>ways, in Caſe of life and Member, to be tryed by the reſt of them and not by Commoners, And all others beneath them be Commoners and Peers amongſt themſelves, and to be tried by theſe Peers of theirs, but not by any of the ſaid Lords. Only the Lords, the Biſhops if Parliament ſit, be tried by the ſaid Lords, elſe the Commoners. Conſider your priviledges in <hi>this.</hi> A Commoner when he comes to be queſtioned for his life, is tryed by his Neighbours and 'acquain<g ref="char:EOLhyphen"/>tance; theſe probaby knowing moſt of the Fact of the perſon accuſed, and of the witneſſes &amp;c. <hi>thoſe</hi> he can ſpeak to &amp;c. <hi>thoſe</hi> which are not ſo much above him as to eſteem too little of his life &amp;c. thoſe he knows whether fair, indifferent, and good men for him to be tried by; By a <hi>Jury</hi> that he may purge, except againſt and chooſe 20. and in ſome Caſes 35. out of [that he likes not] without ſhew<g ref="char:EOLhyphen"/>ing any the leaſt <hi>cauſe</hi> why; and <hi>always</hi> as many more as he will, if he can ſhew any <hi>cauſe.</hi> He is to be tried by Judges on <hi>their Oaths,</hi> and by the Jury all on <hi>their Oaths,</hi> even by two Juries all <hi>ſeveral</hi> perſons on their ſeveral Oaths. He is to be tried according to the <hi>Common Law</hi> and <hi>Statutes.</hi> If his Judges or Jury err againſt him, they are puniſhable. <hi>But</hi> in that Trial before the Lords, is not ſo ſo much as <hi>one</hi> Jury; unleſs you call H. of Commons that one. No exceptions can be made againſt any of the Triers, though never ſo great cauſe. None of the
+<pb n="2" facs="tcp:30806:2"/>Judges nor others be <hi>here</hi> on their Oaths. The Triers, &amp;c. be not Neigh<g ref="char:EOLhyphen"/>hours, &amp;c. but almoſt all perfect Strangers, &amp;c. the Trial is <hi>per leg. &amp; conſuetud. Parliamenti,</hi> unknown to others; ſo moſt proper <hi>for themſelves,</hi> or at leaſt, for <hi>Offenders in Parliament;</hi> as matters ariſing in War by a Court Marſhal. If any err againſt <hi>one</hi> in his Trial, never ſo groſly, where is the remedy? In ſhort, Gen<g ref="char:EOLhyphen"/>tlemen, He that underſtands a Trial by Juries, will never part with, wave, or diſ<g ref="char:EOLhyphen"/>countenance it; he that is for any other, is againſt it. Why ſhould I wiſh another that Trial I wiſh not my ſelf, if in his circumſtances? Why ſhould I preſs for that other Trial before the Lords, in ſtead of this? Why ſhould I ſeek to bring ſuch Trial in practice or ſo much as conſent to ſuch a Preſident of their changing the Trial? No man knows the conſequences. Perſons and Times may alter: there may come as bad a H. of Commons as ever did a good one. Preſidents are no little authentique in Law, no little dangerous. Againſt this Trial by Jury, was once an unhappy Act, 11 <hi>H.</hi> 7. <hi>c.</hi> 3. That Juſtices of Aſſizes or Juſtices of Peace ſhould (without any. Verdict of Twelve men upon Information before them, have full power of hearing and determining all Offences, &amp;c. But ſays Lord <hi>Cooke,</hi> by Colour of <hi>this Act</hi> ſhaking the Fundamental Law of Juries, it is incredible what horrid oppreſ<g ref="char:EOLhyphen"/>ſions, exactions, &amp;c. to the utter undoing of infinite numbers of people were com<g ref="char:EOLhyphen"/>mitted. And experience ſoon taught the Parliament, 1 <hi>H.</hi> 8. <hi>c.</hi> 6. to repeal it. Are Parliaments always out of heats? &amp;c. or free of miſtakes? Who are? What is infallible, any thing but the Deity? Was not there a Subject of this very King<g ref="char:EOLhyphen"/>dom committed to the Tower, and though <hi>ready and deſirous</hi> to be heard, yet judged and attainted by Parliament, without ever being heard or ſent for, <hi>Rot. Parl.</hi> 32 <hi>H.</hi> 8. If a whole Parliament be ſubject to failings, &amp;c. much more part of it. Why then ſo fond and mad of Trials in Parliament? Thus, ſeeing your Right is Trial by Juries, what <hi>Law</hi> is there to take away, diſpenſe with, &amp;c. this Trial by Jury? That which is either Common Law or Statute Law, cannot be altered without an expreſs Statute, <hi>Co. L.</hi> 115. But where is there any ſuch Sta<g ref="char:EOLhyphen"/>tute for enabling the Commons to impeach, &amp;c. any Commoner, or the Lords to trie any perſon of Life and Death, but the Lords own Peers? Oh but the H. of Com. is the Grand Jury of the Nation the Inquiſitors General, the Guardians of the King<g ref="char:EOLhyphen"/>dom the Repreſentatives of the People, all the Commonalty, all that by ſuch Trial can poſſibly ſuffer. <hi>[fine words!]</hi> And ſo if they conſent, the perſon offended conſents <hi>in Law,</hi> in as much as his Repreſentative conſents; and conſent takes away the error. Truly this is fine, ſomething it ſeems may be ſaid for any thing. But if chooſing, the Houſe of Commons do implicitly impower it to do ſome things, muſt it therefore all things? I chooſe Arbitrators, or make a Letter of Attorny to one, he can do no more than what is expreſly mentioned for him to do; nor can he do that otherwiſe than expreſſed. But this is too large a Subject at this time, onely <hi>this,</hi> I cannot any ways impower any one to do any thing which is not accor<g ref="char:EOLhyphen"/>ding to Law; ſo neither can my choice of Parliament men enable them to do any thing but according to Law; any other Power is void in Law, abſolutely void. The power given Parliament men is the weaker alſo, in as much as ſo general, and onely implicite; and therefore to be conſtrued ſtrictly. Thus, How have they power in this caſe to conſent for me? Nay, Do not you ſay your ſelves, that ſeve<g ref="char:EOLhyphen"/>ral Acts of Parliament [the King, Lords, and Commons] are not binding, in as much as againſt the Fundamental Laws of the Kingdom, againſt <hi>Magna Charta, &amp;c.</hi> Then why the ſingle Account of the Houſe of Commons ſo potent and ſtrong, &amp;c. The truth plainly is, it is more or leſs ſtrong, as more or leſs ſuits your humour. Oh, but ſay you, this is the Law in Parliament, the <hi>Lex &amp; Conſuetudo.</hi> You will not grant the King, Houſe of Lords, or any private perſon can call any Commoners life into queſtion before the Lords, without the conſent and approbation of the Houſe of Commons; then how will you <hi>reaſon in Law,</hi> that the Houſe of Com<g ref="char:EOLhyphen"/>mons may? Give me one ſound honeſt reaſon for the difference. But if by ſeeking to bind the Houſe of Lords to retain and judge a Commoner upon an Impeachment from the Houſe of Commons, you introduce or warrant the King, Houſe of Lords,
+<pb n="3" facs="tcp:30806:2" rendition="simple:additions"/>or any private perſons to do <hi>it,</hi> or the like. Where are you then? <hi>The ſame R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>ſon, the ſame Law,</hi> is a Maxim never fails. But for the People of <hi>England,</hi> be it ſaid anciently the Lords never gave Judgment of Life or Death upon any but their Peers. This with little Oil and Sand might eaſily be made out from the Rolls in the Lords Houſe; a Commoner was in theſe caſes out of the Juriſdiction of their Court. I know of one opinion againſt this, but no matter, it alters not the Law, About <hi>Edw. 2.</hi> and <hi>Edw.</hi> 3. it was ſomewhat diſputed as now; and in <hi>Simon de Bery<g ref="char:EOLhyphen"/>fords</hi> caſe, the Lords being mightily importuned to give judgment againſt him, refuſed a conſiderable time, alledging he was a Commoner, and they were not bound to give Judgment of Life and Death on him; but at length did, upon an Act of King, Lords, and Commons, paſſing that this ſhould not be drawn into preſident.</p>
+            <p>The Act is <hi>Rot. Parl. 4. Edw 3. n. 6.</hi> to this effect; <hi>It is enacted, That albeit the Lords and Peers of the Realm, as Judges of Parliament, in the Kings preſence had taken upon them to give judgment in caſe of Treaſon or Felony, againſt ſuch as were not their Peers, That hereafter no Peer ſhall be driven to give Judgment on any other but their Peers, according to Law.</hi>
+            </p>
+            <p>Note, the words <hi>[according to Law]</hi> ſhew the Law was ſo before, The words the <hi>[the Kings preſence]</hi> are mentioned becauſe the Kings aſſent was antiently as the Commons demand ſeems yet neceſſary in the Lords judging <hi>any</hi> Capital crimes; Beſides ſhould the Lords, be bound to judge all men Impeached before them, it might be made ill uſe of, an Artifice ſometimes to divert &amp;c. them; Nor ſeems it fit and becoming the honour and dignity of that Houſe that it ſhould ſtoop to trouble themſelves with trying every inconſiderable Fellow for every Treaſon and felony that may happen, though perhaps to a ſhilling or farthing value which yet they are as well bound to do, as trie <hi>Fitz-Harris,</hi> let his Crimes be what they will, (I ſhall not judge them before he is heard, and Witneſſes at his Trial.) By this means too, the great buſineſs of the Nation, that of the Parliament might be fettered, delayed, obſtructed, &amp;c. when yet the Trial might be as Well if not better, as a<g ref="char:EOLhyphen"/>foreſaid, by and before others; The Lords, as to the practice alſo, have accordingly, <hi>ſeveral times before,</hi> done the like as they did <hi>now,</hi> They referred the Trial of one ſo impeached to another Court ſince the Kings happy reſtauration. Oh, but ſay you, Why ſhould the Lords make uſe of this Priviledge now, when oftentimes they have done otherwiſe, notwithſtanding the ſaid Act, &amp;c. Truly ſometimes they muſt uſe their Liberty of refuſing ſuch Trials elſe loſe it, both to their own and our danger; when better than now? Eſpecially, ſince you ſeem ſo hotly to deny it already; ſince their was ſo much, ſuch extraordinary and ſo far greater and more earneſt preſſing buſineſs before them and for them to do; and ſince had the Lords, as you ſay, retained the impeachment, <hi>Fitz-Harris</hi> could not have been Tried till the leiſure and pleaſure of the Houſe of Commons were it ſhould be ſo; If he ſhould have never been tried, he could never be brought to Juſtice. But no que<g ref="char:EOLhyphen"/>ſtion the Houſe of Commons were zealous for his ſpeedy Trial, and Death if deſerved, and would have made a vigorous proſecution; elſe it were an ingenious way of new found pardoning, <hi>There is</hi> ſome ſmall difference ſure, between deny<g ref="char:EOLhyphen"/>ing Juſtice to be done at all and between leaving or Commanding it to be done by other Courts, as the Houſe of Lords did in this caſe; There is ſome ſmall difference alſo between Courts that ought to do other, and but for neceſſity (if ever) ſuch things as theſe: and other Courts that ought to do ſuch things as theſe onely; and whoſe onely end and buſineſs theſe things and Trials be. Oh, but no other Court can trie this now, there is a Vote of the Houſe of Commons againſt it. It is true, but is their Vote any Law. any Judgment, any Record, any mat<g ref="char:EOLhyphen"/>ter or thing <hi>in Law,</hi> more than the noiſe of Thunder laſt Midſummer is to us now? If it would be ever ſo much as taken notice of, it was onely during the ſame Seſſions, and is now become abortive, and ſo as if never had been. He that holds contrary, endeavours <hi>by it,</hi> altering, &amp;c. the Government. Whereas nothing in
+<pb n="4" facs="tcp:30806:3"/>our Government is binding but Common Law, or other, from King, Lords, and Commons, nor ought to have mere influence than what onely good manners allows.</p>
+            <p>Mr. <hi>Smith,</hi> You in your Commentaries ſay, All proſecution at the Suit of the King muſt ſtop, till that of a private Perſon be determined. Good now, Did you ever conſider it before? Is it not diametrically otherwiſe in all Civil Cauſes <hi>un<g ref="char:EOLhyphen"/>doubtedly?</hi> And that it is ſo <hi>altogether,</hi> I muſt tell you there are plenty of Autho<g ref="char:EOLhyphen"/>rities better than yours. As for a taſte: Albeit the Judges finding <hi>Appeals</hi> were uſually proſecuted more effectually than <hi>Indictments,</hi> would therefore endeavour that all Parties might be tried on Appeals, and ſo would ſometimes ſtop the Indict<g ref="char:EOLhyphen"/>ment (which is the Kings Suit) to rather try on the Appeal (which is the Suit of a pri<g ref="char:EOLhyphen"/>vate perſon;) <hi>yet</hi> if they were informed the Evidence were clear, &amp;c. they would always proceed at the Kings Suit, and never ſtay for the Suit of the Patry: 7 <hi>H</hi> 4. 35. 21 <hi>H.</hi> 6. 28, 29. 38. Or rather than the Kings Suit ſhould be long delayed, as if on Infant brought an Appeal, now, becauſe it could not be tried till he came at Age, they will Indict the Party, &amp;c. and immediately trie him again for it, 21 <hi>Edw.</hi> 3. 23. <hi>tit' Age in Fitzh.</hi> 57. <hi>in tit' Coron. in Fitzh.</hi> 278. <hi>Anno</hi> 13 <hi>H. 6. &amp; ibid. pl.</hi> 279. <hi>Anno</hi> 32 <hi>H.</hi> 6. Let the Appeal of what perſon ſoever, and whenſoever depend, yet that the Judges might immediately trie the Offender at the Kings Suit, I would is 16 <hi>E.</hi> 4. 1 <hi>Coron, Fitzh.</hi> 469. <hi>Anno</hi> 8 <hi>H.</hi> 5. and ſo were ſeveral others tried, <hi>tin' con<g ref="char:EOLhyphen"/>ſpir. Fitzh. H. 6. &amp; tit' coron' Fitzh.</hi> 82. &amp; 7 <hi>H.</hi> 4. 35. b.</p>
+            <p>Thus may we ſee how juſtifiable the Lords were in what they did; how gene<g ref="char:EOLhyphen"/>rous in preſerving our Rights of Trial by our Peers; how much worthy more of our grateful acknowledgments than miſunderſtandings; how we ought maturely to conſider all things before we judge; and how we may unjuſtly err in our Opi<g ref="char:EOLhyphen"/>nions before we rightly underſtand all circumſtances and reaſons of the matter we preſume to give our opinion of. Therefore ought we to meddle with nothing but what is within our own Sphere and capacity; and that neither, but when free of Paſſion and Prejudice.</p>
+            <epigraph>
+               <q xml:lang="lat">Cum multis aliis quae nunc perſcribere longum eſt.</q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>John Smith</hi> in Great Queen-ſtreet. 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
